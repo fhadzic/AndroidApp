@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="button">#D3D3D3</color>
+    <color name="crvena">#FF3030</color>
+    <color name="zelena">#7FFF00</color>
+    <color name="zuta">#FFFF00</color>
+</resources>

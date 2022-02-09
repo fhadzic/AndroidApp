@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607640975922",
+    "firebase_url": "https://kvizoviakt.firebaseio.com",
+    "project_id": "kvizoviakt",
+    "storage_bucket": "kvizoviakt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607640975922:android:07de0a8a1f2fe3a0",
+        "android_client_info": {
+          "package_name": "ba.etf.unsa.rma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607640975922-odq8cutkropb9tsd3r9c3giuk3tv3s0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ba.etf.unsa.rma",
+            "certificate_hash": "121d53093f404f4e2f2c738936ae2c2fe294edf1"
+          }
+        },
+        {
+          "client_id": "607640975922-1os6p146l1h6sj079ntuj8b71macs9f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcYCjp1lq732Qdn-ZTWhd06WZ8B5zoVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607640975922-1os6p146l1h6sj079ntuj8b71macs9f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
